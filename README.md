@@ -39,4 +39,14 @@
 
 2. Por último agrega al menos 1-2 elementos adicionales en JavaScript por tu cuenta, que sean parecidos a los anteriores y que tengan que ver con la temática o funcionalidad de tu web.
 
-##
+## Valoración y testing
+
+Para la evaluación de la práctica se tendrá en cuenta:
+
+- Inclusión de una **tabla de pruebas** donde se documenten:
+  - Funcionamiento adecuado del modo oscuro y de la persistencia mediante *localStorage*.
+  - Funcionamiento correcto del botón **Limpiar** del formulario.
+  - Uso de una notificación emergente no intrusiva (*Toast* de Bootstrap).
+  - Envío correcto del formulario, solo permitido si todas las validaciones son correctas.
+  
+- **Documentación** de la web en formato *markdown* con capturas de la web y su funcionamiento.
