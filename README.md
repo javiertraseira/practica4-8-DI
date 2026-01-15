@@ -1,4 +1,4 @@
-# Práctica 4.8 Ejercicios en JavaScript
+# Práctica 4.8 Página dinámica en JavaScript
 
 ## Parte 1
 
