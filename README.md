@@ -2,12 +2,10 @@
 
 ## Parte 1
 
-## Parte 3
-
 1. Implementa un **modo oscuro** en tu página que:
-  - Cambie el fondo de la página
-  - Cambie el texto del botón a “Modo Claro”
-  - Guarde la preferencia en el `localStorage`
+    - Cambie el fondo de la página
+    - Cambie el texto del botón a “Modo Claro”
+    - Guarde la preferencia en el `localStorage`
 2.  Agrega al formulario un botón **limpiar** que borre todos los campos del formulario previamente introducidos. Al limpiarse deberá de mostrar una **notificación emergente** que no sea intrusiva (como el componente *Toast* de Bootstrap) indicando que los campos se han borrado.
 3.  Agrega al menos **tres validaciones adicionales** a campos de tu formulario mediante un script, y que no hayas hecho previamente en *Bootstrap/HTML5*, mostadas de forma no intrusiva. Ejemplo de dichas validaciones:
     -   Validar que los campos no tengan números ni caracteres especiales.
@@ -27,7 +25,7 @@
   - Guardarlo en un array
   - Mostrar el array por consola usando: `console.table(arrayUsuarios); `
 
-## Parte 4
+## Parte 3
 
 1. Escoge de entre estos 3-4 de los siguientes apartados, para implementar interactividad a tu interfaz en JavaScript:
   - Busca el código para agregar un **reloj digital sencillo** en JavaScript en alguna parte de tu página.
