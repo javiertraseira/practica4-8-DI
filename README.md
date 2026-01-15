@@ -17,7 +17,7 @@
 ## Parte 2
 
 1. Crear un array de objetos con los datos de la tabla:
-    - Genera la tabla dinámicamente desde JS.
+    - Genera la tabla dinámicamente desde *JS*.
     - Resaltar el lenguaje seleccionado en el formulario.
 
 2. Al enviar correctamente el **formulario** anterior:
