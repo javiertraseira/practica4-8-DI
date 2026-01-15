@@ -12,6 +12,15 @@
 
 ## Parte 2
 
+Al enviar correctamente el formulario:
+
+- Crear un objeto JavaScript con los datos
+- Guardarlo en un array
+- Mostrar el array por consola usando: `console.table(arrayUsuarios);`
+```
+
+## Parte 3
+
 Escoge de entre estos 3-4 de los siguientes apartados, para implementar interactividad a tu interfaz en JavaScript:
 
 1.  Agrega en el menú un botón de "*Modo Oscuro/claro*” para mediante un script alternar entre estos en tú página.
