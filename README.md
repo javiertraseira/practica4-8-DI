@@ -1,8 +1,8 @@
 # Práctica 4.8 Página dinámica en JavaScript
 
-El objetivo de esta práctica es aplicar los fundamentos de JavaScript sobre una interfaz web con Bootstrap, trabajando la manipulación del DOM, eventos, validación de formularios e interactividad, introduciendo el uso de localStorage y buenas prácticas de organización y depuración del código.
+El **objetivo** de esta práctica es aplicar los fundamentos de JavaScript sobre una interfaz web con Bootstrap, trabajando la manipulación del DOM, eventos, validación de formularios e interactividad, introduciendo el uso de localStorage y buenas prácticas de organización y depuración del código.
 
-Esta práctica sirve para encaminar la entrega del segundo proyecto trimestral evaluable del módulo de Desarrollo de Interfaces.
+Esta práctica sirve para encaminar la entrega del **segundo proyecto trimestral** evaluable del módulo de Desarrollo de Interfaces.
 
 ## Parte 1
 
