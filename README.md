@@ -11,7 +11,7 @@ Esta práctica sirve para encaminar la entrega del **segundo proyecto trimestral
     - Cambie el texto del botón a “Modo Claro”.
     - Guarde la preferencia en el `localStorage`.
 2.  Agrega al formulario un botón **limpiar** que borre todos los campos del formulario previamente introducidos. Al limpiarse deberá de mostrar una **notificación emergente** que no sea intrusiva (como el componente *Toast* de Bootstrap) indicando que los campos se han borrado.
-3.  Agrega al menos **tres validaciones adicionales** a campos de tu formulario mediante un script, y que no hayas hecho previamente en *Bootstrap/HTML5*, mostadas de forma no intrusiva. Ejemplo de dichas validaciones:
+3.  Agrega al menos **tres validaciones adicionales** a campos de tu formulario mediante un script, y que no hayas hecho previamente en *Bootstrap/HTML5*, mostradas de forma no intrusiva. Ejemplo de dichas validaciones:
     -   Validar que los campos no tengan números ni caracteres especiales.
     -   Verificar que al menos un checkbox esté seleccionado.
     -   Verificar un rango de fechas.
